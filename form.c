@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-#include "../include/queue.h"
+#include "queue.h"
 
 #define BUFFER_LEN 256
-#define FILE_NAME "Form"
+#define FILE_NAME "Formfile"
 #define WILD_LABEL "all"
 #define LABEL_END ":"
 
