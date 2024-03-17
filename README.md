@@ -43,6 +43,6 @@ to access in globaly put the binary in your path.
 
 ## Usage
 do you know Makefile?  
-this is Formfile
-all label will be activated if no other option is given 
-in case a label is passed then the commands under the label will be excuted
+this is Formfile.  
+all label will be activated if no other option is given.  
+in case a label is passed then the commands under the label will be excuted.  
