@@ -1,2 +1,2 @@
 all: 
-	gcc src/form.c -o form
+	gcc form.c -o form
